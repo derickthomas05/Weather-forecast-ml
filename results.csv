@@ -1,0 +1,4 @@
+model,MAE_F,RMSE_F
+Linear Regression,3.8,4.95
+Random Forest,4.17,5.28
+Baseline (same as now),4.34,5.64
